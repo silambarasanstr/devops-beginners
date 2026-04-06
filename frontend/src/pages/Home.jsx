@@ -4,7 +4,7 @@ import TodoContainer from "../containers/TodoContainer";
 const Home = () => {
   return (
     <div>
-      React_Docker_CICD_Github simbu
+      Docker
       <TodoContainer />
     </div>
   );
